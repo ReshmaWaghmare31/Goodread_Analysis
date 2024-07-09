@@ -1,5 +1,6 @@
 # Goodread_Analysis
 "𝐄𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐬𝐡𝐚𝐫𝐞 𝐦𝐲 𝐥𝐚𝐭𝐞𝐬𝐭 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐚𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐆𝐨𝐨𝐝𝐫𝐞𝐚𝐝𝐬 𝐛𝐨𝐨𝐤 𝐝𝐚𝐭𝐚! 📚📊
+
 📖 Goodreads, the world's largest site for readers and book recommendations. 🌍📚 
 In this comprehensive report ,I've delved into the fascinating world of literature, exploring trends, insights, and patterns within the vast collection of books available on Goodreads. . 🗺️📌
 
